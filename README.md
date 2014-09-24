@@ -1,7 +1,7 @@
 #LoadingView
 A animation loading view with a running train and bubbles come out randomly
 
-[![](demo)](https://raw.githubusercontent.com/drinking/LoadingView/master/demoview.jpg)
+[![](https://raw.githubusercontent.com/drinking/LoadingView/master/demoview.jpg)](https://raw.githubusercontent.com/drinking/LoadingView/master/demoview.jpg)
 
 
 ## Usage
